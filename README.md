@@ -1,4 +1,4 @@
-#Kanagawa Hyprland Dots
+# Kanagawa Hyprland Dots
 
 # Showcase
 
